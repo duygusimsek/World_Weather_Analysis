@@ -41,6 +41,8 @@ Four cities were chosen and a travel itinerary was created and a travel route wa
 
 Finally, a marker layer map with a pop-up marker for the four cities on the itinerary was generated. Each marker has information about the city name and country, a nearby hotel, and a current weather description. The layer map was uploaded. [WeatherPy_travel_map_markers.png](https://github.com/duygusimsek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
+[Vacation_Itinerary.ipynb](https://github.com/duygusimsek/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+
 ## Resources
 - Data Sources:
 
